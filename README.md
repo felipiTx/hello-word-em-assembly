@@ -1,4 +1,4 @@
-# hello word em assembly 
+# hello world em assembly 
 
 # 💬 Hello World em Assembly para Windows
 
